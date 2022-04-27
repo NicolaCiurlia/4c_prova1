@@ -2,13 +2,13 @@
  * 
  * @author Ciurlia Nicola
  *
- * @version 2
+ * @version 2b online
  *
  */
 public class MainClass {
 
 	public static void main(String[] args) {
-		System.out.println("prova 2");
+		System.out.println("prova 2b online");
 
 	}
 
